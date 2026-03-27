@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Shivam 👋
 
-<!--
-**itshivamsharmaa/itshivamsharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer expanding into mobile app development.
 
-Here are some ideas to get you started:
+I build fast, scalable web apps and I'm currently focused on shipping real-world mobile apps using React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build modern web apps (frontend + backend)
+- Develop mobile apps using React Native (Expo)
+- Work with APIs, databases, and scalable systems
+
+## 🧠 Tech Stack
+- Frontend: React, Next.js, Tailwind
+- Backend: Node.js, Express
+- Mobile: React Native (Expo)
+- Database: MongoDB / Firebase / postgresql
+- Tools: Git, REST APIs
+
+## 🌐 Web Focus  
+Currently building and shipping:  
+- Fast, SEO-optimized web apps using Next.js  
+- Conversion-focused landing pages & business sites  
+- Scalable APIs and backend systems  
+- Full-stack projects with real-world use cases  
+
+## 📱 Mobile Focus
+Currently building and improving:
+- App performance & UI/UX
+- Real-world mobile projects
+- Backend integration in apps
+
+## 🚧 Current Goal
+Ship 5 production-ready web & mobile apps and level up system design.
+
+## 💼 Open to Work
+Available for freelance projects (web & mobile)
+
+## 📫 Connect
+- Email: shivamdev24b@gmail.com
